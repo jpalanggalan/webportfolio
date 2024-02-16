@@ -1,0 +1,46 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "Fira Sans", sans-serif;
+	
+}
+
+
+p {
+	font-family: "Oswald", sans-serif;
+	font-size: 1.5rem;
+	color: black;
+}
+
+.bgcolor {
+	background-image: linear-gradient(to left, rgba(50,65,235,0.5),rgba(50,65,235,1),rgba(50,65,235,0.5));
+}
+
+.nav-link:hover {
+	background-color: rgba(10,10,300,1);
+	border-radius: 20px;
+}
+
+#navbar {
+	position: sticky;
+}
+
+.img-text {
+	font-family: "Oswald", sans-serif;
+	font-size: 1.2rem;
+	color: black;
+}
+
+.tool {
+	width: 60px;
+	height: 60px;
+}
+
+label {
+	font-size: 1.2rem;
+}
+
+footer h5 {
+	font-size: 0.8rem; 
+}
